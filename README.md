@@ -4,8 +4,6 @@ Integrating a secure communication interface within CHIS, facilitating seamless 
 
 The entire database implementation was carried out using MySQL, ensuring robustness and reliability. Additionally, a partial prototype was developed on the MongoDB platform to explore the feasibility of this system in a NoSQL environment. There is also an integration of the MySQL database with Python.
 
-For the "Centralized Healthcare Information System" on GitHub, here’s a suggested structure for your README.md file, which you can adapt and expand based on the specific aspects of your project. This template will help others understand and use your project effectively:
-
 ## Features
 - **Centralized Patient Database:** Access comprehensive patient histories and critical health information from a single platform.
 - **Secure Communication:** Enables encrypted interactions between patients and healthcare professionals.
