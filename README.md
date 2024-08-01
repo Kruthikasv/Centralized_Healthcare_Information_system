@@ -6,14 +6,6 @@ The entire database implementation was carried out using MySQL, ensuring robustn
 
 For the "Centralized Healthcare Information System" on GitHub, here’s a suggested structure for your README.md file, which you can adapt and expand based on the specific aspects of your project. This template will help others understand and use your project effectively:
 
-### README.md
-
-```markdown
-# Centralized Healthcare Information System (CHIS)
-
-## Overview
-The Centralized Healthcare Information System (CHIS) provides a unified platform that offers instant access to critical patient data, improving response times in medical emergencies. This system facilitates seamless communication between healthcare providers and patients, enhancing the quality of care provided.
-
 ## Features
 - **Centralized Patient Database:** Access comprehensive patient histories and critical health information from a single platform.
 - **Secure Communication:** Enables encrypted interactions between patients and healthcare professionals.
